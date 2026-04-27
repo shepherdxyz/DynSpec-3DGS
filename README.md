@@ -25,3 +25,35 @@ conda activate [你的环境名]
 # 3. 安装依赖库
 pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 --extra-index-url [https://download.pytorch.org/whl/cu116](https://download.pytorch.org/whl/cu116)
 pip install -r requirements.txt
+
+## 💾 Datasets
+
+请从以下链接下载我们使用的数据集，并按照如下目录结构组织文件：
+
+https://jokeryan.github.io/projects/nerf-ds/
+
+[你的仓库名]/
+
+├── NERF-DS/
+│   ├── as/
+│   ├── basin/
+│   └── bell/
+```
+
+---
+
+## 🚀 Quick Start
+
+### Training
+运行以下命令在默认数据集上启动训练：
+```bash
+python train.py --config configs/default.yaml --dataset_path
+```
+
+### Evaluation
+下载预训练模型放在 `checkpoints/` 文件夹下，然后运行：
+```bash
+python eval.py --checkpoint checkpoints/best_model.pth --render_mode all
+```
+
+---
