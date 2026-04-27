@@ -29,9 +29,9 @@ pip install -r requirements.txt
 ```
 
 ## 💾 Datasets
-```
-我们使用的数据集为<a href="https://jokeryan.github.io/projects/nerf-ds/">NERF-DS</a>。并按照如下目录结构组织文件：
 
+我们使用的数据集为<a href="https://jokeryan.github.io/projects/nerf-ds/">NERF-DS</a>。并按照如下目录结构组织文件：
+```
 ├── NERF-DS/
 │   ├── as/
 │   ├── basin/
