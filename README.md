@@ -1,7 +1,6 @@
-# DynSpec-3DGS
-This repository contains the official implementation associated with the paper "DYNAMIC 3D GAUSSIAN RECONSTRUCTION WITH SPECULAR REFLECTION".
-
 <h1 align="left">DYNAMIC 3D GAUSSIAN RECONSTRUCTION WITH SPECULAR REFLECTION</h1>
+
+This repository contains the official implementation associated with the paper "DYNAMIC 3D GAUSSIAN RECONSTRUCTION WITH SPECULAR REFLECTION".
 
 <p align="center">
   <b>ICIP 2025</b>
