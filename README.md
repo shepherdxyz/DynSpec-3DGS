@@ -12,7 +12,7 @@ This repository contains the official implementation associated with the paper "
 
 ## 🛠️ Installation (环境配置)
 
-为了确保代码能够顺利运行，请按照以下步骤配置环境。我们的代码在 `Ubuntu 22.04`、`Python 3.8` 和 `CUDA 11.6` 下测试通过（*请替换为你的实际环境*）。
+为了确保代码能够顺利运行，请按照以下步骤配置环境。我们的代码在 `Ubuntu 22.04`、`Python 3.8` 和 `CUDA 11.6` 下测试通过。
 
 ```bash
 # 1. 克隆仓库
