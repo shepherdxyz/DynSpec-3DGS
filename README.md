@@ -36,9 +36,8 @@ pip install -r requirements.txt
 │   ├── as/
 │   ├── basin/
 │   └── bell/
-
-```
 ---
+```
 
 ## 🚀 Quick Start
 
