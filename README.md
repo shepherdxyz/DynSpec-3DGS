@@ -26,6 +26,8 @@ conda activate [你的环境名]
 pip install torch==1.13.1+cu116 torchvision==0.14.1+cu116 --extra-index-url [https://download.pytorch.org/whl/cu116](https://download.pytorch.org/whl/cu116)
 pip install -r requirements.txt
 
+```
+
 ## 💾 Datasets
 
 我们使用的数据集为<a href="https://jokeryan.github.io/projects/nerf-ds/"><b>[NERF-DS]</b></a>。并按照如下目录结构组织文件：
