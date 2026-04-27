@@ -17,7 +17,6 @@ This repository contains the official implementation associated with the paper "
 ```bash
 # 1. 克隆仓库
 git clone [https://github.com/](https://github.com/)[你的用户名]/[你的仓库名].git --recursive
-cd [你的仓库名]
 
 # 2. 创建虚拟环境
 conda create -n [你的环境名] python=3.8
