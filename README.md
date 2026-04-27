@@ -7,21 +7,8 @@ This repository contains the official implementation associated with the paper "
   <b>ICIP 2025</b>
 </p>
 
-<p align="center">
-  <a href="[你的主页链接，如 https://yourname.github.io]">[你的名字]</a><sup>1</sup>,
-  <a href="[合作者1链接]">[合作者1名字]</a><sup>1,2</sup>,
-  <a href="[合作者2链接]">[合作者2名字]</a><sup>2</sup>
-</p>
-
-<p align="center">
-  <sup>1</sup>[你的学校/机构名称], <sup>2</sup>[合作机构名称]
-</p>
-
-<p align="center">
-  <a href="[项目主页链接/Project Page URL]"><b>[🌎 Project Page]</b></a> | 
+<p align="left">
   <a href="[PDF/arXiv链接]"><b>[📄 Paper]</b></a> | 
-  <a href="[演示视频链接/YouTube或Bilibili]"><b>[🎥 Video]</b></a> | 
-  <a href="[预训练权重下载链接]"><b>[🤗 Models]</b></a>
 </p>
 
 <p align="center">
@@ -29,14 +16,6 @@ This repository contains the official implementation associated with the paper "
 </p>
 
 > 本仓库是 ICIP 2025 论文 *"[你的论文全名]"* 的官方实现代码。在这里用一到两句话精炼总结你的论文做出了什么核心贡献（例如：我们提出了一种基于XXX的新方法，在XXX任务上实现了Y%的性能提升，同时保持了实时渲染速度）。
-
----
-
-## 📰 News (更新日志)
-* **[2026/04]** 🎉 论文被 **ICIP 2025** 接收！
-* **[2026/04]** 🚀 核心代码、预训练模型和项目主页已发布。
-
----
 
 ## 🛠️ Installation (环境配置)
 
