@@ -3,7 +3,7 @@
 This repository contains the official implementation associated with the paper "DYNAMIC 3D GAUSSIAN RECONSTRUCTION WITH SPECULAR REFLECTION".
 
 <p align="left">
-  <a href="[(https://ieeexplore.ieee.org/document/11084729)]"><b>[📄 Paper]</b></a> 
+  <a href="[[PDF/arXiv链接](https://ieeexplore.ieee.org/document/11084729)]"><b>[📄 Paper]</b></a>
 </p>
 
 <p align="center">
