@@ -48,8 +48,9 @@ pip install -r requirements.txt
 python train.py --config configs/default.yaml --dataset_path data/nerf_ds/[scene_name]
 ```
 **⚙️ Parameters (参数说明):**
-*   `--config`: 指定超参数配置文件的路径。该 YAML 文件包含了学习率、最大迭代次数（通常为 30k）、致密化（Densification）策略等核心 3DGS 训练参数，您可以直接修改该文件以进行消融实验。
-*   `--dataset_path`: 指定目标数据集的根目录路径。该目录内部应包含标准的 COLMAP 输出格式数据（即 `sparse/0/` 文件夹和 `images/` 文件夹）。
+*   `--use_env_scope`: 用于消除背景干扰。
+*   `--env_scope_center and --env_scope_radius`: 控制环境光生效范围的球形区域中心及半径。
+*   `--start_deform_env`: 动态环境贴图（Dynamic Environment Map）开始优化的迭代步数。
 
 ### Evaluation
 ```bash
