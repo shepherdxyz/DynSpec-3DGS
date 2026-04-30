@@ -7,7 +7,7 @@ This repository contains the official implementation associated with the paper "
 </p>
 
 <p align="center">
-  <img src="[assets/model.jpg]" width="100%" alt="Teaser Image"/>
+  <img src="assets/model.jpg" width="100%" alt="Teaser Image"/>
 </p>
 
 ## 🛠️ Installation (环境配置)
