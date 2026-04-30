@@ -48,6 +48,7 @@ pip install -r requirements.txt
 python train.py --config configs/default.yaml --dataset_path data/nerf_ds/[scene_name]
 ```
 **⚙️ Parameters (参数说明):**
+*   `-s`: 数据集的路径。
 *   `--use_env_scope`: 用于消除背景干扰。
 *   `--env_scope_center and --env_scope_radius`: 控制环境光生效范围的球形区域中心及半径。
 *   `--start_deform_env`: 动态环境贴图（Dynamic Environment Map）开始优化的迭代步数。
