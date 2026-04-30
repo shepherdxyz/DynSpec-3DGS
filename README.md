@@ -48,9 +48,8 @@ python train.py --config configs/default.yaml --dataset_path
 ```
 
 ### Evaluation
-下载预训练模型放在 `checkpoints/` 文件夹下，然后运行：
 ```bash
-python eval.py --checkpoint checkpoints/best_model.pth --render_mode all
+python eval.py --model_path output/name_of_the_scene --save_images
 ```
 
 ---
