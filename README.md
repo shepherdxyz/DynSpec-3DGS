@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 运行以下命令在指定数据集上启动训练：
 ```bash
-python train.py --config configs/default.yaml --dataset_path data/nerf_ds/[scene_name]
+python train.py -s --use_env_scope --env_scope_center --env_scope_radius --start_deform_env
 ```
 **⚙️ Parameters (参数说明):**
 *   `-s`: 数据集的路径。
