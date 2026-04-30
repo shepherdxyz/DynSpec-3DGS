@@ -1,0 +1,4 @@
+# ninja log v5
+1	9075	1727275109230579223	/mnt/SG10T/xyz/deform-3DGS-DR/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/simple_knn.o	b84ba80facc6ba3f
+0	15768	1727275115910549384	/mnt/SG10T/xyz/deform-3DGS-DR/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/ext.o	615b5645fe284969
+1	36051	1727275136206458636	/mnt/SG10T/xyz/deform-3DGS-DR/submodules/simple-knn/build/temp.linux-x86_64-cpython-38/spatial.o	15e44c17246a13c
